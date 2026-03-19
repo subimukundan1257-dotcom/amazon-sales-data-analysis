@@ -109,6 +109,6 @@ Categorical: 14 columns
 
 ### FILES INCLUDED
 
-amazon_sales.csv
+ * amazon_sales.csv
 
-final_project.ipynb
+ * final_project.ipynb
